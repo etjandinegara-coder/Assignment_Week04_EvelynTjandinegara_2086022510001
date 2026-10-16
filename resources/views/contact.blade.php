@@ -14,13 +14,13 @@
     <h1>Halaman Contact</h1>
     <ul>
         <li>
-            Instagram: <a href="https://www.instagram.com/aaavlncphie?vrfl=MW5qNjRwZ3VtYm8yaA=="></a>
+            Instagram: <a href="https://www.instagram.com/aaavlncphie?vrfl=MW5qNjRwZ3VtYm8yaA==">aaavlncphie</a>
         </li>
         <li>
-            Instagram: <a href="https://www.instagram.com/caarooliineeths?obrf=MXQ1ZjJiNHlvZXF6ag=="></a>
+            Instagram: <a href="https://www.instagram.com/caarooliineeths?obrf=MXQ1ZjJiNHlvZXF6ag==">caarooliineeths</a>
         </li>
         <li>
-            Instagram: <a href="https://www.instagram.com/alicia.kirty?vrfl=MWQyenpndWFobzRkZA=="></a>
+            Instagram: <a href="https://www.instagram.com/alicia.kirty?vrfl=MWQyenpndWFobzRkZA==">alicia.kirty</a>
         </li>
     </ul>
 
